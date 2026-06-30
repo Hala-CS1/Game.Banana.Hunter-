@@ -27,6 +27,7 @@ Files
 
 * Source Code
 * Project Report
+* Gameplay Demo
 * Mini-Game Design Guide
 * UML Diagram
 * Player
