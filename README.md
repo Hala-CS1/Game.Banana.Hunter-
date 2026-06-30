@@ -1,5 +1,4 @@
-# Game.Banana.Hunter-
-🎮 Banana Hunter – Group Project
+# 🎮 Banana Hunter
 
 This is a group project for the Advanced Programming course.
 
