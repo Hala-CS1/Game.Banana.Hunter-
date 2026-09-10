@@ -4,7 +4,7 @@ This is a group project for the Advanced Programming course.
 
 The project focuses on designing and developing a 2D game using JavaFX and applying object-oriented programming concepts.
 
-Game Features
+## Game Features
 
 * Two playable levels
 * Player movement and controls
@@ -14,7 +14,7 @@ Game Features
 * Win and Game Over screens
 * Interactive graphical user interface (GUI)
 
-Technologies Used
+## Technologies Used
 
 * Java
 * JavaFX
@@ -23,7 +23,7 @@ Technologies Used
 * Event Handling
 * Animation & Game Loop
 
-Files
+## Files
 
 * Source Code
 * Project Report
@@ -38,6 +38,6 @@ Files
 * bg2
 * bg
 
-Course
+## Course
 
 Advanced Programming
