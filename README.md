@@ -1,4 +1,4 @@
-# 🎮 Banana Hunter project
+# 🎮 Banana Hunter
 
 This is a group project for the Advanced Programming course.
 
